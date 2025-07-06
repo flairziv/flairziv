@@ -34,13 +34,14 @@ Here are some ideas to get you started:
 <!-- Tech Stack -->
 <h2>🧰 Tech Stack</h2>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px 0;">
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/linux-icon.svg" alt="Linux" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
 </div>
+
 
   <!-- Skill Icons -->
   [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,opencv,pytorch,tensorflow,matlab,git,vscode,anaconda,docker,mysql,raspberrypi,arduino,linux,keil&theme=light)](https://skillicons.dev)
