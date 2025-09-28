@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
   <!-- Skill Icons -->
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,opencv,pytorch,tensorflow,matlab,git,vscode,anaconda,docker,mysql,raspberrypi,arduino,linux,keil&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,opencv,pytorch,matlab,git,vscode,pycharm,anaconda,docker,mysql,raspberrypi,linux&theme=light)](https://skillicons.dev)
 
   <br />
 
@@ -75,12 +75,14 @@ Here are some ideas to get you started:
 <!-- 🧠 Recently Exploring -->
 <h2>🧠 Currently Exploring</h2>
 <p>
+  <img src="https://img.shields.io/badge/-YOLOv5-orange" />
   <img src="https://img.shields.io/badge/-YOLOv8-red" />
-  <img src="https://img.shields.io/badge/-OpenVINO-blue" />
-  <img src="https://img.shields.io/badge/-Jetson%20Nano-green" />
+  <img src="https://img.shields.io/badge/-KF%20Tracking-purple" />
   <img src="https://img.shields.io/badge/-EKF%20Tracking-yellow" />
-  <img src="https://img.shields.io/badge/-ROS2%20Navigation-purple" />
-  <img src="https://img.shields.io/badge/-CSDN%20Blog-orange" />
+  <img src="https://img.shields.io/badge/-OpenCV-blue" />
+  <img src="https://img.shields.io/badge/-ROS2-cyan" />
+  <img src="https://img.shields.io/badge/-OpenVINO-teal" />
+  <img src="https://img.shields.io/badge/-Jetson%20Nano-green" />
 </p>
 
 <br />
@@ -95,7 +97,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
-    <td>Singapore / China</td>
+    <td>FoShan / China</td>
   </tr>
   <tr>
     <td><b>📖 Motto</b></td>
