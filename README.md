@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </div>
 
   <h1 style="color: #00CED1;">Hi there, I'm FlairZiv 👋</h1>
-  <h3>🏹 Embedded Systems | 🤖 Computer Vision | 🧠 AI & Robotics | 📚 Database Engineering</h3>
+  <h3>🤖 Computer Vision | 🧠 AI & Robotics | 📚 Database Engineering | 🏹 Embedded Systems</h3>
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+the+intersection+of+hardware+and+AI.;Building+with+code%2C+logic+and+vision.)
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <br />
 
   <!-- Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=技术不是终点，解决问题才是目标。&author=FlairZiv" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=精确的视觉算法是机器人的眼睛，稳定的控制系统是机器人的大脑。&author=FlairZiv" />
 
 
   <br />
@@ -64,10 +64,26 @@ Here are some ideas to get you started:
 <h2>🚀 Featured Projects</h2>
 <p>Here are a few cool things I've worked on recently:</p>
 
+### 🤖 机器人竞赛项目
 <ul>
-  <li><a href="https://github.com/FlairZiv/YOLOv5-Robot-Detector"><b>🎯 YOLOv5 Robot Detector</b></a> - Real-time detection system for robot armor plates using ONNX and OpenCV + CUDA.</li>
-  <li><a href="https://github.com/FlairZiv/AT89C52-Stopwatch"><b>🕹️ AT89C52 Stopwatch</b></a> - A fully functional timer with accurate 1ms delay, reset/pause/resume logic and 7-segment display.</li>
-  <li><a href="https://github.com/FlairZiv/Library-System-SQL"><b>📚 Library Management System</b></a> - MySQL-based system with triggers, procedures, popularity ranking, user access control, and more.</li>
+  <li><a href="https://github.com/FlairZiv/FosuRM"><b>🏆 FosuRM-2025</b></a> - 基于RoboMaster比赛的视觉系统，包含目标检测、追踪和串口通信。</li>
+  <li><b>🎯 Armor Detection</b> - 基于OpenVINO的实时装甲板检测，支持多种深度学习模型推理优化。</li>
+  <li><b>⚡ Armor Tracker</b> - 基于卡尔曼滤波和MPC的装甲板追踪算法，实现高精度目标预测和轨迹跟踪。</li>
+</ul>
+
+### 💻 AI & 视觉算法
+<ul>
+  <li><a href="https://github.com/flairziv/yolo_module"><b>🔍 YOLOv5 Robot Detector</b></a> - 高性能目标检测系统，集成CUDA加速。</li>
+</ul>
+
+### 🔧 嵌入式系统
+<ul>
+  <li><a href="https://github.com/FlairZiv/AT89C52-Stopwatch"><b>⏱️ AT89C52 Stopwatch</b></a> - 基于单片机的精确计时系统。</li>
+</ul>
+
+### 📊 数据库系统
+<ul>
+  <li><a href="https://github.com/flairziv/LibrarySystem"><b>📚 Library Management System</b></a> - 功能完整的图书管理数据库系统。</li>
 </ul>
 
 <br />
@@ -101,7 +117,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><b>📖 Motto</b></td>
-    <td>解决问题才是目标。</td>
+    <td>每一次优化都是对极致的追求</td>
   </tr>
   <tr>
     <td><b>🧠 Fun Fact</b></td>
