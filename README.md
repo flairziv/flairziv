@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td><b>🔬 Major Focus</b></td>
-    <td>Embedded Systems, CV + AI, Robotics, Database Design</td>
+    <td>CV + AI、机器人技术、数据库设计、嵌入式系统</td>
   </tr>
   <tr>
     <td><b>📍 Location</b></td>
@@ -105,6 +105,6 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><b>🧠 Fun Fact</b></td>
-    <td>I love optimizing memory usage in MCUs & training small but mighty AI models</td>
+    <td>我热衷于开发高性能的机器人自瞄系统和视觉算法，熟悉OpenVINO推理优化并训练小而强大的AI模型</td>
   </tr>
 </table>
