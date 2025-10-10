@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <ul>
   <li><a href="https://github.com/FlairZiv/FosuRM"><b>🏆 FosuRM-2025</b></a> - 基于RoboMaster比赛的视觉系统，包含目标检测、追踪和串口通信。</li>
   <li><b>🎯 Armor Detection</b> - 基于OpenVINO的实时装甲板检测，支持多种深度学习模型推理优化。</li>
-  <li><b>⚡ Armor Tracker</b> - 基于卡尔曼滤波和MPC的装甲板追踪算法，实现高精度目标预测和轨迹跟踪。</li>
+  <li><b>⚡ Armor Tracker</b> - 基于卡尔曼滤波的装甲板追踪算法，实现高精度目标预测和轨迹跟踪。</li>
 </ul>
 
 ### 💻 AI & 视觉算法
