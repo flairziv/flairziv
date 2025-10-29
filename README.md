@@ -54,42 +54,10 @@ Here are some ideas to get you started:
 
   <br />
 
-  <!-- Motto -->
-  <h3>✨ Motto</h3>
-  <p><i>“代码是思想的延伸，调试是逻辑的修行。”</i></p>
-
 </div>
 
-<!-- 🚀 Pinned Projects -->
-<h2>🚀 Featured Projects</h2>
-<p>Here are a few cool things I've worked on recently:</p>
-
-### 🤖 机器人竞赛项目
-<ul>
-  <li><a href="https://github.com/FlairZiv/FosuRM"><b>🏆 FosuRM-2025</b></a> - 基于RoboMaster比赛的视觉系统，包含目标检测、追踪和串口通信。</li>
-  <li><b>🎯 Armor Detection</b> - 基于OpenVINO的实时装甲板检测，支持多种深度学习模型推理优化。</li>
-  <li><b>⚡ Armor Tracker</b> - 基于卡尔曼滤波的装甲板追踪算法，实现高精度目标预测和轨迹跟踪。</li>
-</ul>
-
-### 💻 AI & 视觉算法
-<ul>
-  <li><a href="https://github.com/flairziv/yolo_module"><b>🔍 YOLOv5 Robot Detector</b></a> - 高性能目标检测系统，集成CUDA加速。</li>
-</ul>
-
-### 🔧 嵌入式系统
-<ul>
-  <li><a href="https://github.com/FlairZiv/AT89C52-Stopwatch"><b>⏱️ AT89C52 Stopwatch</b></a> - 基于单片机的精确计时系统。</li>
-</ul>
-
-### 📊 数据库系统
-<ul>
-  <li><a href="https://github.com/flairziv/LibrarySystem"><b>📚 Library Management System</b></a> - 功能完整的图书管理数据库系统。</li>
-</ul>
-
-<br />
-
 <!-- 🧠 Recently Exploring -->
-<h2>🧠 Currently Exploring</h2>
+<h2>Currently Exploring</h2>
 <p>
   <img src="https://img.shields.io/badge/-YOLOv5-orange" />
   <img src="https://img.shields.io/badge/-YOLOv8-red" />
@@ -102,25 +70,3 @@ Here are some ideas to get you started:
 </p>
 
 <br />
-
-<!-- 🎯 Profile Cards -->
-<h2>🎯 FlairZiv in a Snapshot</h2>
-
-<table>
-  <tr>
-    <td><b>🔬 Major Focus</b></td>
-    <td>CV + AI、机器人技术、数据库设计、嵌入式系统</td>
-  </tr>
-  <tr>
-    <td><b>📍 Location</b></td>
-    <td>FoShan / China</td>
-  </tr>
-  <tr>
-    <td><b>📖 Motto</b></td>
-    <td>每一次优化都是对极致的追求</td>
-  </tr>
-  <tr>
-    <td><b>🧠 Fun Fact</b></td>
-    <td>我热衷于开发高性能的机器人自瞄系统和视觉算法，熟悉OpenVINO推理优化并训练小而强大的AI模型</td>
-  </tr>
-</table>
