@@ -38,14 +38,14 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
 </div>
 
 
   <!-- Skill Icons -->
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,opencv,pytorch,vscode,pycharm,idea,anaconda,docker,mysql,qt,raspberrypi,linux&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,opencv,vue,spring,cmake,vscode,pycharm,idea,anaconda,docker,mysql,qt,linux&theme=light)](https://skillicons.dev)
 
   <br />
 
