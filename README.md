@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
   <!-- Skill Icons -->
-  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,opencv,pytorch,matlab,git,vscode,pycharm,anaconda,docker,mysql,qt,raspberrypi,linux&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,opencv,pytorch,vscode,pycharm,idea,anaconda,docker,mysql,qt,raspberrypi,linux&theme=light)](https://skillicons.dev)
 
   <br />
 
