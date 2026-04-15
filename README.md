@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 <div align="center">
 
   <!-- Welcome Emojis -->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Milky%20Way.png" alt="Milky Way" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="50" height="50" />
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glasses.png" alt="Glasses" width="50" height="50" />
-  </div>
 
   <h1 style="color: #00CED1;">Hi there, I'm FlairZiv 👋</h1>
   <h3>🤖 Computer Vision | 🧠 AI & Robotics | 📚 Database Engineering | 🏹 Embedded Systems</h3>
@@ -33,15 +27,6 @@ Here are some ideas to get you started:
 
 <!-- Tech Stack -->
 <h2>🧰 Tech Stack</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 10px 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="55" height="55"/>
-</div>
 
 
   <!-- Skill Icons -->
