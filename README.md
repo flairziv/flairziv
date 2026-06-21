@@ -19,9 +19,16 @@ Here are some ideas to get you started:
   <!-- Welcome Emojis -->
 
   <h1 style="color: #00CED1;">Hi there, I'm FlairZiv 👋</h1>
-  <h3>🤖 Computer Vision | 🧠 AI & Robotics | 📚 Database Engineering | 🏹 Embedded Systems</h3>
+  <p align="center">
+    <code>◉ Computer Vision</code> &nbsp;·&nbsp;
+    <code>⚡ Edge AI</code> &nbsp;·&nbsp;
+    <code>▣ On-Device Inference</code> <br/>
+    <code>△ Model Optimization</code> &nbsp;·&nbsp;
+    <code>⌁ High-Performance Computing</code> &nbsp;·&nbsp;
+    <code>▰ Embedded Deployment</code>
+  </p>
 
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Exploring+the+intersection+of+hardware+and+AI.;Building+with+code%2C+logic+and+vision.)
+
 
   <br />
 
@@ -30,12 +37,12 @@ Here are some ideas to get you started:
 
 
   <!-- Skill Icons -->
-  [![My Skills](https://skillicons.dev/icons?i=cpp,py,java,opencv,vue,spring,cmake,vscode,pycharm,idea,anaconda,docker,mysql,qt,linux&theme=light)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cpp,py,opencv,cmake,vscode,pycharm,anaconda,docker,mysql,qt,linux&theme=light)](https://skillicons.dev)
 
   <br />
 
   <!-- Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=精确的视觉算法是机器人的眼睛，稳定的控制系统是机器人的大脑。&author=FlairZiv" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=把%20AI%20塞进小设备里，然后假装一切都很轻松。&author=FlairZiv" alt="FlairZiv's Quote" />
 
 
   <br />
@@ -45,14 +52,15 @@ Here are some ideas to get you started:
 <!-- 🧠 Recently Exploring -->
 <h2>Currently Exploring</h2>
 <p>
-  <img src="https://img.shields.io/badge/-YOLOv5-orange" />
-  <img src="https://img.shields.io/badge/-YOLOv8-red" />
-  <img src="https://img.shields.io/badge/-KF%20Tracking-purple" />
-  <img src="https://img.shields.io/badge/-EKF%20Tracking-yellow" />
-  <img src="https://img.shields.io/badge/-OpenCV-blue" />
-  <img src="https://img.shields.io/badge/-ROS2-cyan" />
-  <img src="https://img.shields.io/badge/-OpenVINO-teal" />
-  <img src="https://img.shields.io/badge/-Jetson%20Nano-green" />
+  <img src="https://img.shields.io/badge/YOLOv5-FF8C00?style=flat-square&logoColor=white" alt="YOLOv5" />
+  <img src="https://img.shields.io/badge/YOLOv8-E42A1D?style=flat-square&logoColor=white" alt="YOLOv8" />
+  <img src="https://img.shields.io/badge/KF_Tracking-8A2BE2?style=flat-square&logoColor=white" alt="KF Tracking" />
+  <img src="https://img.shields.io/badge/EKF_Tracking-FFD700?style=flat-square&logoColor=white" alt="EKF Tracking" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2" />
+  <img src="https://img.shields.io/badge/OpenVINO-0054AE?style=flat-square&logo=intel&logoColor=white" alt="OpenVINO" />
+  <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Jetson Nano" />
+  <img src="https://img.shields.io/badge/Intel_NUC-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel NUC" />
 </p>
 
 <br />
